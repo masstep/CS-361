@@ -11,8 +11,9 @@ Webscraper / UI Developed by Mason Stephenson
  Mason Stephenson's primary project, the etsy webscraper
 
  and
-
+ 
  the microservice developed for Matthew Bourque's primary project
+ 
  --------------------------------------------------------------------------------------
 
  
