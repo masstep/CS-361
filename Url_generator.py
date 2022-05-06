@@ -35,7 +35,7 @@ def retrieve_IDs():
 def retrieve_URL(place_ID):
     """ Uses places ID to perform google places details request to retrieve URL """
 
-    api_key = 'AIzaSyBOkYVEKpLJym_ag-CeT1cFgwQIUgPL8rk'
+    api_key = # INSERT YOUR API KEY
     # url for places details request
     url = "https://maps.googleapis.com/maps/api/place/details/json?place_id="+place_ID+"&fields=url&key="+api_key
     payload ={}
